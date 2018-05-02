@@ -1,0 +1,1 @@
+<input type="date" min="<?php echo date("Y-m-d"); ?>" > </input>
